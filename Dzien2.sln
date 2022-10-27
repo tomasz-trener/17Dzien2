@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08ZadanieZawodnicy", "P08Z
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09TabliceWielowymiarowe", "P09TabliceWielowymiarowe\P09TabliceWielowymiarowe.csproj", "{170C0322-BDFC-4E18-8E11-244F159FB5F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10ZadanieTabliceWieloWym", "P10ZadanieTabliceWieloWym\P10ZadanieTabliceWieloWym.csproj", "{10416C3B-0320-4B9E-8418-9F835860FCCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{170C0322-BDFC-4E18-8E11-244F159FB5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{170C0322-BDFC-4E18-8E11-244F159FB5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{170C0322-BDFC-4E18-8E11-244F159FB5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
