@@ -1,0 +1,3 @@
+﻿
+Roziń program z pogodą tak aby po wpisaniu "koniec" 
+program wypisał średnią temperaturę dla wczystanych miast 
