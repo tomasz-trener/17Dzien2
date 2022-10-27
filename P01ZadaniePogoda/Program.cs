@@ -33,7 +33,8 @@ namespace P01ZadaniePogoda
 
                 Console.WriteLine(wynik);
             }
-           
+            //https://github.com/tomasz-trener/17Dzien2
+
         }
     }
 }
