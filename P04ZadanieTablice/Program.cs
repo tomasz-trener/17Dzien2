@@ -10,6 +10,23 @@ namespace P04ZadanieTablice
     {
         static void Main(string[] args)
         {
+            string[] imiona = new string[100];
+
+            string imie;
+            int i = 0;
+            do
+            {
+                imie = Console.ReadLine();
+                imiona[i] = imie;
+                i++;
+            } while (imie!= "koniec");
+
+            // teraz wyswietlamy 
+            for (int j = 0; j < i-1; j++)
+                if (imiona[j].Length>3)
+                    Console.WriteLine($"{imiona[j]} ({imiona[j].Length})");
+
+            Console.ReadKey();
         }
     }
 }
