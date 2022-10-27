@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09TabliceWielowymiarowe", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10ZadanieTabliceWieloWym", "P10ZadanieTabliceWieloWym\P10ZadanieTabliceWieloWym.csproj", "{10416C3B-0320-4B9E-8418-9F835860FCCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11TablicaTablic", "P11TablicaTablic\P11TablicaTablic.csproj", "{1694A1E5-E8F6-46D7-A02B-8591A134095E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12ZadanieTablicaTablic", "P12ZadanieTablicaTablic\P12ZadanieTablicaTablic.csproj", "{3D7722B4-A527-48BF-AF14-2A25D32F940C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10416C3B-0320-4B9E-8418-9F835860FCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1694A1E5-E8F6-46D7-A02B-8591A134095E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1694A1E5-E8F6-46D7-A02B-8591A134095E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1694A1E5-E8F6-46D7-A02B-8591A134095E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1694A1E5-E8F6-46D7-A02B-8591A134095E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7722B4-A527-48BF-AF14-2A25D32F940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7722B4-A527-48BF-AF14-2A25D32F940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7722B4-A527-48BF-AF14-2A25D32F940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7722B4-A527-48BF-AF14-2A25D32F940C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
